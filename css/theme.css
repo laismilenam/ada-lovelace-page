@@ -731,14 +731,14 @@
   .u-container-layout.u-container-layout.u-color-2:before,
   .u-table-alt-color-2 tr:nth-child(even) {
     color: #ffffff;
-    background-color: #f95911;
+    background-color: #5d024d;
   }
   .u-input.u-color-2,
   .u-field-input.u-color-2,
   .u-button-style.u-color-2,
   .u-button-style.u-color-2[class*="u-border-"] {
     color: #ffffff !important;
-    background-color: #f95911 !important;
+    background-color: #5d024d !important;
   }
   .u-button-style.u-color-2:hover,
   .u-button-style.u-color-2[class*="u-border-"]:hover,
@@ -3334,7 +3334,7 @@
   .u-button-style.u-palette-2-base,
   .u-button-style.u-palette-2-base[class*="u-border-"] {
     color: #ffffff !important;
-    background-color: #f95911 !important;
+    background-color: #5d024d !important;
   }
   .u-button-style.u-palette-2-base:hover,
   .u-button-style.u-palette-2-base[class*="u-border-"]:hover,
