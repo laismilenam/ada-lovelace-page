@@ -7168,7 +7168,7 @@
   .u-background-effect-image,
   .u-video-poster {
     object-fit: cover;
-    display: block;
+    display: ;
     vertical-align: middle;
     background-size: cover;
     background-position: 50% 50%;
@@ -17622,7 +17622,7 @@
     text-transform: uppercase;
   }
   .u-align-left {
-    text-align: left;
+    text-align: justify;
   }
   @media (min-width: 1400px) {
     .u-align-left-xxl {
