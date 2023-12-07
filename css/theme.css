@@ -34,6 +34,11 @@
   .u-custom-font.u-heading-font {
     font-family: Montserrat,sans-serif !important;
   }
+  .icon-rede{
+    transform: scale(0.1) translateY(-580%)translateX(-10px);
+
+  }
+  
   /*end-variables font*/
   /*begin-variables colors*/
   .u-none.u-input,
@@ -731,14 +736,14 @@
   .u-container-layout.u-container-layout.u-color-2:before,
   .u-table-alt-color-2 tr:nth-child(even) {
     color: #ffffff;
-    background-color: #5d024d;
+    background-color: #f95911;
   }
   .u-input.u-color-2,
   .u-field-input.u-color-2,
   .u-button-style.u-color-2,
   .u-button-style.u-color-2[class*="u-border-"] {
     color: #ffffff !important;
-    background-color: #5d024d !important;
+    background-color: #f911e6 !important;
   }
   .u-button-style.u-color-2:hover,
   .u-button-style.u-color-2[class*="u-border-"]:hover,
@@ -3170,7 +3175,7 @@
   li.active > .u-button-style.u-button-style.u-palette-2-light-1,
   li.active > .u-button-style.u-button-style.u-palette-2-light-1[class*="u-border-"] {
     color: #ffffff !important;
-    background-color: #fa7336 !important;
+    background-color: #882972 !important;
   }
   .u-hover-palette-2-light-1:hover,
   .u-hover-palette-2-light-1[class*="u-border-"]:hover,
@@ -3194,10 +3199,10 @@
   li.active > a.u-button-style.u-button-style.u-active-palette-2-light-1[class*="u-border-"],
   input.u-field-input.u-field-input.u-active-palette-2-light-1:checked {
     color: #ffffff !important;
-    background-color: #fb8a57 !important;
+    background-color: #882972 !important;
   }
   a.u-link.u-hover-palette-2-light-1:hover {
-    color: #fb8a57 !important;
+    color: #882972 !important;
   }
   .u-palette-2-light-2,
   .u-body.u-palette-2-light-2,
@@ -16699,6 +16704,8 @@
     --animation-custom_in-scale: 1;
     height: auto;
     margin: -367px auto 60px calc(((100% - 1140px) / 2) + -12px);
+    position: flex;
+    left: 22rem;
   }
   
   .u-section-1 .u-container-layout-1 {
@@ -16727,6 +16734,8 @@
     background-image: none;
     margin: 30px auto 0 0;
     padding: 17px 57px 18px 56px;
+    position: flex;
+    left: 14rem;
   }
   
   @media (max-width: 1199px) {
